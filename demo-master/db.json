@@ -2,10 +2,11 @@
   "posts": [
     { "id": 1, "title": "Training" },
     { "id": 2, "title": "Take Off" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 3, "title": "Landing" }
+    { "id": 4, "title": "Cruise" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "alert", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
