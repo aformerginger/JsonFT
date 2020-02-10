@@ -4,9 +4,9 @@
     { "id": 2, "title": "Takeoff" },
     { "id": 3, "title": "Climb" },
     { "id": 4, "title": "Cruise" },
-    { "id": 5, "title": "Landing" },
-    { "id": 6, "title": "Descent" },
-    { "id": 7, "title": "Final Approach" }
+    { "id": 5, "title": "Descent" },
+    { "id": 6, "title": "Final Approach" },
+    { "id": 7, "title": "Landing" }
   ],
   "further": [
     { "id": 1, "body": "Weather alert", "postId": 1 },
