@@ -6,11 +6,11 @@
     { "id": 4, "title": "Cruise" },
     { "id": 5, "title": "Landing" },
     { "id": 6, "title": "Descent" },
-    { "id": 7, "title": "Final Approach" },
+    { "id": 7, "title": "Final Approach" }
   ],
   "further": [
     { "id": 1, "body": "Weather alert", "postId": 1 },
-    { "id": 2, "body": "Engine alert", "postId": 1 }
+    { "id": 2, "body": "Engine alert", "postId": 3 }
   ],
   "after training": {
     "name": "Well done"
